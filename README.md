@@ -1,11 +1,10 @@
 <br>
+## Python Tutorial:
 
-## 这个 Python tutorial 的一些内容:
-
-* [Python 基础](https://morvanzhou.github.io/tutorials/python-basic/)
-  * [基础](https://morvanzhou.github.io/tutorials/python-basic/basic/)
-  * [多线程 threading](https://morvanzhou.github.io/tutorials/python-basic/threading/)
-  * [多进程 multiprocessing](https://morvanzhou.github.io/tutorials/python-basic/multiprocessing/)
+* [Python Basics](https://morvanzhou.github.io/tutorials/python-basic/)
+  * [Basics](https://morvanzhou.github.io/tutorials/python-basic/basic/)
+  * [Multi-Threading](https://morvanzhou.github.io/tutorials/python-basic/threading/)
+  * [Multiprocessing](https://morvanzhou.github.io/tutorials/python-basic/multiprocessing/)
   * [简单窗口 tkinter](https://morvanzhou.github.io/tutorials/python-basic/tkinter/)
 * [机器学习](https://morvanzhou.github.io/tutorials/machine-learning/)
   * [有趣的机器学习](https://morvanzhou.github.io/tutorials/machine-learning/ML-intro/)
